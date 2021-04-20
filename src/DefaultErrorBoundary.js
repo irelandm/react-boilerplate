@@ -1,4 +1,4 @@
-import React from 'React'
+import React from 'react'
 import propTypes from 'prop-types'
 
 export default class DefaultErrorBoundary extends React.Component {

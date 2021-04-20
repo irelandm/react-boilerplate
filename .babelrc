@@ -6,6 +6,7 @@
       "not dead",
       "not IE 11"
     ],
+    "corejs": 3,
     "useBuiltIns": "entry"
   }], "@babel/preset-react"],
   "plugins": [
